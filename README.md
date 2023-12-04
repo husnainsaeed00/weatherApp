@@ -41,7 +41,7 @@ To run the Weather App locally:
 ## Credits
 
 - Weather data provided by [WeatherAPI](https://www.weatherapi.com/).
-- Icons by [Material-Icons]([https://iconify.design/](https://fonts.googleapis.com/icon?family=Material+Icons"
+- Icons by [Material-Icons](https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet")).
 
 ## Contributors
