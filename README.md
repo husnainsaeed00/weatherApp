@@ -35,8 +35,8 @@ To run the Weather App locally:
 
 ## Screenshots
 
-![Weather App Screenshot 1](screenshots/screenshot1.png)
-![Weather App Screenshot 2](screenshots/screenshot2.png)
+![Weather App Screenshot 1](screenshots/Screenshot1.png)
+![Weather App Screenshot 2](screenshots/Screenshot2.png)
 
 ## Credits
 
